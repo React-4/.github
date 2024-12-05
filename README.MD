@@ -1,6 +1,6 @@
 # [DisClo 접속](http://43.203.154.25/)
 
-![제목 없음.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/720abf95-7e09-46c8-8ccd-ff391e9ecc90/019798fd-b14d-403b-8c07-47987537373e/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png)
+![제목 없음](https://github.com/user-attachments/assets/0c135541-5ca3-41d8-8b6a-d64b466e74b8)
 
 ### 아이디어
 
