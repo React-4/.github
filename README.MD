@@ -86,7 +86,7 @@
 ### 아키텍처
 ![image](https://github.com/user-attachments/assets/036dd326-f4a6-4733-8846-36500c1b9faa)
 
-### [Figma](https://www.figma.com/design/CjC3tmHb7bpRPcxBdtWlMi/istp4%EC%A1%B0?node-id=0-1&node-type=canvas&t=UnAJZLBps6uv4wKp-0)
+## [Figma 보러가기](https://www.figma.com/design/CjC3tmHb7bpRPcxBdtWlMi/istp4%EC%A1%B0?node-id=0-1&node-type=canvas&t=UnAJZLBps6uv4wKp-0)
 ![image](https://github.com/user-attachments/assets/e3ca58ef-d4f7-40f4-8f93-e23d104a528f)
 
 ### ERD
