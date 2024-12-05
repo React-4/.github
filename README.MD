@@ -1,15 +1,14 @@
 # [DisClo 접속](http://43.203.154.25/)
 
+---
+
 ![제목 없음](https://github.com/user-attachments/assets/0c135541-5ca3-41d8-8b6a-d64b466e74b8)
 
 # 프로젝트 계획서
 
 ## 프로젝트 제목
 
-- **서비스명**: 디스클로
-    
-    ![logo.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/720abf95-7e09-46c8-8ccd-ff391e9ecc90/c1006a7c-b673-4851-aee6-a35cbeb59b7b/logo.png)
-    
+- **서비스명**: DisClo
 - **팀명**: 4조팔자
 
 ## 프로젝트 개요
@@ -85,9 +84,6 @@
 # 페이지 별 기능
 
 - 사이드바
-    
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/720abf95-7e09-46c8-8ccd-ff391e9ecc90/17122efe-2bff-456a-8d2d-53c5dab616ab/image.png)
-    
     - 내 투자
         - 내 투자 종목
         - 내 투자 종목 공시
@@ -114,7 +110,6 @@
     - 검색어 관련 공시 리스트
     - 공시 상세 검색   - 공시만 검색
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/720abf95-7e09-46c8-8ccd-ff391e9ecc90/7cb8cfd9-2ed0-41e5-bc58-78bcd5c478a4/image.png)
     
 - 개별 공시 정보 페이지 (디테일)
     - 공시 요약
