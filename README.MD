@@ -1,5 +1,4 @@
 # [DisClo 접속](http://43.203.154.25/)
-### []
 
 ---
 
@@ -90,4 +89,4 @@
 ### [Figma](https://www.figma.com/design/CjC3tmHb7bpRPcxBdtWlMi/istp4%EC%A1%B0?node-id=0-1&node-type=canvas&t=UnAJZLBps6uv4wKp-0)
 
 ### ERD
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/720abf95-7e09-46c8-8ccd-ff391e9ecc90/fedefa96-071c-4f2e-a46a-8cd85f2b60ed/image.png)
+![아키텍처](https://github.com/user-attachments/assets/7eb3340e-3182-4ddb-9e2c-c332ab1cf140)
